@@ -8,6 +8,7 @@ GITHUB Login Simulate
 
 依赖库:
 request(python3)
+lxml
 
 运行:
 
